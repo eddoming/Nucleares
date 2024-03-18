@@ -1,2 +1,2 @@
 # Nucleares
-Cluster ded Ciencias Nucleares
+Cluster de Ciencias Nucleares
